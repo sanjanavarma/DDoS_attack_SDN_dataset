@@ -1,1 +1,14 @@
 
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DDoS_attack_SDN
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Parvathi Sanjana
+    family-names: Pericherla
+repository-code: 'https://github.com/sanjanavarma/DDoS_attack_SDN_dataset'
